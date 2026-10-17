@@ -1,0 +1,138 @@
+{
+  "SourceArtifact": "DeviceDriver.exe",
+  "SourceSha256": "c935f37e68853c95c94961e87f3bbbfd9d37d892137f201b8e838f82cff6361f",
+  "CaptureDate": "2026-10-17",
+  "Method": "Original serializers; outgoing HID writes blocked; artificial settings",
+  "Fixtures": [
+    {
+      "File": "effect-1.json",
+      "PayloadLength": 1152,
+      "Sha256": "a35c486e4f98d8ddbf39393154bd18e28c18903eba6089fd33b473a7be45dc13"
+    },
+    {
+      "File": "effect-2.json",
+      "PayloadLength": 1152,
+      "Sha256": "fd435977565920ef5463e92abcf706a090082c6d11dd3e38189a9ea110720004"
+    },
+    {
+      "File": "effect-3.json",
+      "PayloadLength": 1152,
+      "Sha256": "5d6d805a018847ad52edc99fa3795543e382599e29787697fab94428c4bb3469"
+    },
+    {
+      "File": "effect-4.json",
+      "PayloadLength": 1152,
+      "Sha256": "8f5ca453c3b913dd5896d661e0c051b6b11594a8289d3e218d47237ecdb007e8"
+    },
+    {
+      "File": "effect-5.json",
+      "PayloadLength": 1152,
+      "Sha256": "8ee6fe4292f520115b4f293cfe2fbc25763cf3e484fd49b2ae5a29d4685e6191"
+    },
+    {
+      "File": "effect-6.json",
+      "PayloadLength": 1152,
+      "Sha256": "9dec4be7cb443a0a644ac806a6bf9c248f6203e616526f483a1d21bab3f6d732"
+    },
+    {
+      "File": "effect-7.json",
+      "PayloadLength": 1152,
+      "Sha256": "0f59539c3d6cca77de2d11d01a2415a893e16271352d8baf56e3e284e82b43f2"
+    },
+    {
+      "File": "effect-8.json",
+      "PayloadLength": 1152,
+      "Sha256": "20a4f52b190e2459791cf89018836a3b5bfe433df3f467d128d687e12e4bc1a0"
+    },
+    {
+      "File": "effect-9.json",
+      "PayloadLength": 1152,
+      "Sha256": "255a577218589adcf40c1f370d16204743f7bfcedb18841bc1db6df8405890ba"
+    },
+    {
+      "File": "effect-10.json",
+      "PayloadLength": 1152,
+      "Sha256": "598d9cc233bcc0e3547b597fb2ad4aad961b5ede36b3291bb6b12f5f2b7c05a2"
+    },
+    {
+      "File": "effect-11.json",
+      "PayloadLength": 1152,
+      "Sha256": "e493f5b87ba9d239c11f082ddc26307e020782c00a4813806103084ccff70556"
+    },
+    {
+      "File": "effect-12.json",
+      "PayloadLength": 1152,
+      "Sha256": "0e1156d42cfde3514415806f3250fdafc14b8b46748aedc76f3d97ef88e34088"
+    },
+    {
+      "File": "effect-13.json",
+      "PayloadLength": 1152,
+      "Sha256": "263d96022879b0c3e4f3f9bad50cdbb4e9f279681f1495ab0dd381b45090cafa"
+    },
+    {
+      "File": "effect-14.json",
+      "PayloadLength": 1152,
+      "Sha256": "bc4327c993e4ec271956fce458e70fd1f8349b7373b19bd35e4ce560d6834d65"
+    },
+    {
+      "File": "effect-15.json",
+      "PayloadLength": 1152,
+      "Sha256": "169e3f2060d4f46ab47b5f22644fe431d4af7160c9b9beb589fe4a3499339edf"
+    },
+    {
+      "File": "effect-16.json",
+      "PayloadLength": 1152,
+      "Sha256": "de3e0fa3223ebfa4dd56c82250c1ad5a8d987c67686aadc6978f2a6b01b3c983"
+    },
+    {
+      "File": "effect-17.json",
+      "PayloadLength": 1152,
+      "Sha256": "1575d56f550b9275c5434fcf52d8859f3033d448105c9c20cd27acbc8a9f93c8"
+    },
+    {
+      "File": "effect-18.json",
+      "PayloadLength": 1152,
+      "Sha256": "a33ee5174b2dbe2f1c26e2dc641b3e654e664d635f3b63a633da6958cc1eca91"
+    },
+    {
+      "File": "effect-19.json",
+      "PayloadLength": 1152,
+      "Sha256": "0b0809256d8ac19e0bf0f497acd3d885052ece3dd0ad4bdae4414695e86fde96"
+    },
+    {
+      "File": "effect-20.json",
+      "PayloadLength": 1152,
+      "Sha256": "4781519d7d2b6957021556208efc031fa68f2d2e222bfb6e2f52a47dbc7e654e"
+    },
+    {
+      "File": "custom-caps-color.json",
+      "PayloadLength": 1152,
+      "Sha256": "7502d2df222797e572a156554f526ddbe543e8ce7ed39182ef45ce5a78dc434f"
+    },
+    {
+      "File": "macro-events.json",
+      "PayloadLength": 512,
+      "Sha256": "662f8e85365aaea8d06c933ac890cbe5a698d824b44d37952b6d822615d4add1"
+    },
+    {
+      "File": "mapping-type-1.json",
+      "PayloadLength": 640,
+      "Sha256": "c53e0c3554dd00491d17bccb1f8690859efa308726e77cb162848a4a30f00970"
+    },
+    {
+      "File": "mapping-type-2.json",
+      "PayloadLength": 640,
+      "Sha256": "a9bd95796bf20b630c457a33bbfbf6f196fae8922c4321569568a6c17bca9277"
+    },
+    {
+      "File": "mapping-type-3.json",
+      "PayloadLength": 640,
+      "Sha256": "15e8fb2d774f31e4d1f835be985af31d0cd2f823ba361da1d28e10a862dbb454"
+    },
+    {
+      "File": "mapping-type-12.json",
+      "PayloadLength": 640,
+      "Sha256": "aad76f77f5b4817da370bec3ae940093378fd21d626973bd8ebc2bb6192cf837"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+# Local applications and original vendor distribution
+/*.exe
+/dist/
+*.dll
+*.pdb
+*.zip
+*.msi
+
+# Original artifacts, captures, per-machine diagnostics and design sessions
+/evidence/
+/.superpowers/
+/tools/
+/docs/BUILD-PROGRESS.md
+/docs/DESIGN-PREVIEW.md
+/docs/REVERSE-ENGINEERING.md
+/docs/HARDWARE-CAPABILITIES.md
+/docs/FEATURE-PARITY.md
+/docs/superpowers/
+
+# Runtime/editor data
+bin/
+obj/
+.vs/
+.idea/
+__pycache__/
+*.pyc
+*.log
+*.db
+*.db-journal
+*.backup
+*.tmp
+Draft.json
+Last acknowledged.json
+Profiles/
+Logs/
+Recovered drafts/
+Removed profiles/
+
+# Local configuration/credentials are never part of the source tree
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.snk
+*.key
